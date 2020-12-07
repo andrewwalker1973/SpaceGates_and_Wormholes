@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 0b4dfedb4dda84ac38c7eb6a553ef819, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 162eb6f0-7ffa-4225-bdf8-7e14ac5b811c
+  UnityClientID: jISDpJazpjp7cN6X9TXtaA
+  UnityClientKey: 9ONgZ-gcbpHkbrlszfd9KFpeughnO4tcS7arXUohqJ0
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAprxPjL5BmuDjrRR3IPnBQwD2tkvhYdVwfvXnMz/8N33Qr1maOP6tF5UOsWuBomdgVUtGbdDUR5tgYkcduOaRydKWwcVUfx7S7BIAgJ8WpeWs1xBHxO/E8l25kEDfeqG7x2JpDg7Cs5BBExSPYOYXNCCdtKZTNkOh0+0KdBfjsSqGOrJk1IRgm6tbTH+JZy6fTnfamERfCNVSGf5M/NuNRBB0DikP5HlDKM21O05Y2DIT6tV9mdi3GjzIL6wJ0gVeLM5lQg/BKRRJxmhYK4roJAbXrDsN17/7a2/oJMCMoCJiiq4Pnxrq6NGzQLr0+d/E37LZGerlx3x9A5niqpes4wIDAQAB
+  AppName: Spacegates and Wormholes
+  AppSlug: ff3a72ad-b35b-468e-a810-39a0631813bb
+  AppItemId: 5f5a036646c19a001faa5937
+  Permission: 
